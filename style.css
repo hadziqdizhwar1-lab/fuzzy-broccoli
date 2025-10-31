@@ -1,0 +1,5 @@
+p {
+    font-size: 16px; /* Mengubah ukuran font paragraf*/
+    line-height: 1.5; /* Mengatur jarak antar baris */
+    margin-bottom: 15px; /* Menambahkan margin di bawah paragraf */
+}
