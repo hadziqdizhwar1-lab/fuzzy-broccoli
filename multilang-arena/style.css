@@ -1,0 +1,6 @@
+*{box-sizing:border-box}
+body{font-family: Poppins, sans-serif; background:#0b1020; color:#e6eef8; display:flex; flex-direction:column; align-items:center; padding:20px;}
+#hud{width:800px; display:flex; justify-content:space-between; margin-bottom:8px;}
+#game{border-radius:12px; background:linear-gradient(180deg,#102033,#08111b); box-shadow:0 10px 40px rgba(0,0,0,0.6);}
+button{background:#2b6cff;border:none;padding:8px 12px;border-radius:8px;cursor:pointer;color:white;}
+button:active{transform:translateY(1px)}
